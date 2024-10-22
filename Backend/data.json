@@ -1,0 +1,2022 @@
+[
+    {
+        "index": 1,
+        "date": "3/15/2023 11:01",
+        "comment": "name working near cliff 20 drop crew didnt discuss hazard briefing discussed gf told foreman make corrections place something give crews visual",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 2,
+        "date": "7/9/2019 10:00",
+        "comment": "name trucks cut bumbers need hitch step fabricated facilitate safe entry exit back",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 3,
+        "date": "8/1/2022 10:15",
+        "comment": "employee rigged concrete culvert load flat bed trailer employee line fire culvert lifted",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 4,
+        "date": "10/18/2023 12:06",
+        "comment": "name tender wearing hardhat recommended discuss ppe use lunch briefing",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 5,
+        "date": "3/3/2021 11:00",
+        "comment": "drop zone clearly marked crew climber aloft bringing tree spar",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 6,
+        "date": "2/22/2024 12:24",
+        "comment": "discussed need utilize pvds assessment unknown conditions downed lines aep utilities pvd policy",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 7,
+        "date": "8/5/2024 9:30",
+        "comment": "team wearing appropriate ppe tasks hand hydrovac team started work noticed equipment rather loud conducted noise survey shared results team also shared niosh app using crew leaders well werent familiar downloaded application use kudos team went got hearing protection thanked sharing results",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 8,
+        "date": "6/24/2020 10:03",
+        "comment": "name version available name went briefing us explained need purpose name briefing need detail ate fire briefing assignments water source humidity",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 9,
+        "date": "12/28/2023 11:02",
+        "comment": "looking job lcs requested vac truck due seeing markings underground utilities area",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 10,
+        "date": "9/27/2023 9:00",
+        "comment": "name member standing alongside road crew member cutting brush around pole high traffic area crew member farther road avoid getting hit",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 11,
+        "date": "10/28/2021 14:30",
+        "comment": "asked crew last time inspected harness unable remember linemen inspect harnesses going bucket",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 12,
+        "date": "10/14/2022 14:00",
+        "comment": "wheel chocks placed one side placed uphill side slight slope",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 13,
+        "date": "2/17/2022 12:30",
+        "comment": "name provided coaching signs cross street name working close intersection warning cars turning onto street work zone name moved sign advised talk management getting two name ahead signs set situation",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 14,
+        "date": "7/7/2022 15:14",
+        "comment": "name member driving without seatbelt row spoke safety supervisor corrected employee",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 15,
+        "date": "8/3/2020 7:28",
+        "comment": "lma got truck without hard crane loading scrap wood another crew loading poles vicinity",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 16,
+        "date": "10/7/2020 9:00",
+        "comment": "individual climbed bucket one hand full 3 points contact used specifically covered sjo",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 17,
+        "date": "3/5/2021 10:45",
+        "comment": "three four name members wearing hard hats name lead provided coaching agreed hard hats completing task working",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 18,
+        "date": "9/19/2024 13:00",
+        "comment": "name using sling secure dolly pull cable trenwa sling wrapped around excavator bucket rough edges recommend contractor use approved rigging practices protect sling damage",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 19,
+        "date": "2/13/2024 11:11",
+        "comment": "name member observed working without safety glasses spoke coached team member importance proper ppe matter corrected ppe required name c 8 1 1 8 1 3 8 1 6 8 3 1 name protection",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 20,
+        "date": "9/28/2022 20:31",
+        "comment": "driver comfortable driving 1500 dodge pickup sense ease driving vehicle body signs tension arms asked driving session comfort level completing drive spoke bring issue supervision ever drive company vehicle",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 21,
+        "date": "7/22/2024 11:20",
+        "comment": "job briefing communicated verbally documented discussed briar name paper tailboards truck use coached use moving forward working pairs",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 22,
+        "date": "3/20/2024 10:01",
+        "comment": "name using crane set rebar cage didnt inspect check rigging tha jb suspended load icon wasnt marked jb either talked supervisor importance capturing information jb",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 23,
+        "date": "5/18/2023 9:13",
+        "comment": "operator running equipment without use seatbelt stopped reminded wear seatbelts operations name made correction immediately",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 24,
+        "date": "6/29/2023 13:45",
+        "comment": "observed name mechanic changing tire site truck truck lifted crane boom service truck attached reese hitch truck hitch certified lifting point truck work also done without jack stands cribbing truck tire changed",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 25,
+        "date": "11/3/2021 13:08",
+        "comment": "name second crew never signed jb jel never discussed documented entry location row never marked name cone leading visitors steepest hazardous location enter row",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 26,
+        "date": "8/2/2022 9:23",
+        "comment": "member crew working without safety glasses starting saw multiply members without hearing protection",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 27,
+        "date": "11/29/2023 9:15",
+        "comment": "coach lcs lof around bottom pole one employee started working base pole lineman bucket",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 28,
+        "date": "11/14/2019 8:00",
+        "comment": "employee climbing pole planning use chainsaw question asked ok use saw without chaps climbing working pole language around practice chose wear chaps",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 29,
+        "date": "7/18/2023 10:00",
+        "comment": "wshp provided name river electrical correct contact information aep personnel",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 30,
+        "date": "7/1/2020 9:39",
+        "comment": "noticed covering iron cross working near told area covered made necessary adjustments",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 31,
+        "date": "7/29/2024 11:30",
+        "comment": "observe ground use didnt proper label attached testing make aware condition",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 32,
+        "date": "11/6/2023 13:30",
+        "comment": "climber amiot regularly adjust tighten harness aloft ladder discussed fixing properly aloft got commitment",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 33,
+        "date": "7/2/2020 10:00",
+        "comment": "job briefing consisted many job steps didnt allow crew capture hazards associated process work task spoke foreman adding additional job briefing necessary ensure capture associated hazards",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 34,
+        "date": "3/26/2019 10:45",
+        "comment": "name crew dakotahs crews niether crew sign west crew sign east side crew let people know coming around corner crews blocking lane road fixed informed name another sign needed",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 35,
+        "date": "6/16/2022 9:52",
+        "comment": "name parked middle several trucks name strobe lights didnt cones",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 36,
+        "date": "6/19/2024 10:15",
+        "comment": "hi vis worn crew members worked along name name rd name oh",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 37,
+        "date": "12/19/2022 13:06",
+        "comment": "employee removed safety eyewear look excavation reminded glasses back especially concrete pour",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 38,
+        "date": "2/27/2019 9:00",
+        "comment": "name barricading around equiment place working overhead spot corrected discussed crew",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 39,
+        "date": "6/16/2022 12:44",
+        "comment": "stop called employees reposition pj side lines make finale cut release conductor line fire",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 40,
+        "date": "8/2/2021 9:00",
+        "comment": "crew sprayer truck said leaking gace gf replace",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 41,
+        "date": "10/15/2022 14:27",
+        "comment": "crew receiving stone new access road trucks crossing distribution line overhead line warning signs place",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 42,
+        "date": "10/11/2021 9:30",
+        "comment": "crewmembers wearing correct ppe working gloves hard hat glasses missing addressed issues crew violations correct immediately",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 43,
+        "date": "5/23/2023 11:30",
+        "comment": "confined space identified sif icons confined space associated tasks tha",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 44,
+        "date": "1/23/2024 19:46",
+        "comment": "caustic tank area housekeeping ro needs improved mops cords hoses lying path ro observed inadequate housekeeping mop left grating lying wall around caustic area ro second floor caustic tank loading area housekeeping needed improved empty drums spilled media evident caustic tank area slips trips falls evident hoses left across floor recommended 2 drums need spill containment",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 45,
+        "date": "7/17/2024 10:49",
+        "comment": "rb foreman witnessed operating chainsaw face level chaps glasses hearing protection creating potential high energy mechanical sif",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 46,
+        "date": "6/11/2020 12:30",
+        "comment": "truck noted many times various issues including cracked windshield broken weld step rear truck grill held place rope windshield repaired foreman working truck heater vents arrived blower motor turned vents wont close engine compartment resulting warm cab driving",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 47,
+        "date": "3/14/2024 12:24",
+        "comment": "name failed wipe stick use coached expectation around cleaning sticks first use day",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 48,
+        "date": "3/20/2024 10:00",
+        "comment": "name greenfield construction site mid construction crew recognized various hazards mitigated best definite increased risk around",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 49,
+        "date": "4/28/2022 9:00",
+        "comment": "path crew taking small steep embankment recommended crew walk around area level entrance approximately 15 yards away",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 50,
+        "date": "9/27/2022 10:37",
+        "comment": "porta name available crew use either sides highway 181 discussed supervisor assured go back laydown yard get trailers use following day follow ensure place",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 51,
+        "date": "9/9/2024 13:14",
+        "comment": "suggested crew take phasing measurements outside transformer containment avoid slips trips falls avoid congestion underground riser cables",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 52,
+        "date": "7/28/2020 16:00",
+        "comment": "job briefing failed discuss multiple hazards associated work area name access barb wire fence get work area didnt safest path marked name also failed mention procedure multiple employees using saws time row gf made corrections documented 20 rule job briefing also crews applying herbicide mpg without proper rubber gloves worn also corrected job briefing gf",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 53,
+        "date": "11/3/2021 11:00",
+        "comment": "flagman sign close flagger traffic backing last sign name spacing addressed crew",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 54,
+        "date": "7/16/2024 11:00",
+        "comment": "observation observed 2 employees cutting name tube without gloves worn asked put explained reasons also spoke foreman name fickey well",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 55,
+        "date": "5/1/2024 13:26",
+        "comment": "one worker pulling new wire gloves fr sleeves reminded keep sleeves wearing gloves name agreed",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 56,
+        "date": "1/20/2022 13:42",
+        "comment": "observed scaffolding fully erected usable scaffold inspection tag show inspected use competent person",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 57,
+        "date": "5/11/2023 7:55",
+        "comment": "guard structure placement adequate tension end wire pull additional guard structure provides protection discussed nhpl safety supt tcr additional equipment brought provide guarding single phase perpendicular distribution spot corrected",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 58,
+        "date": "2/9/2023 17:46",
+        "comment": "fr sleeves rolled attempting close transformer fuse employee rolled sleeves arc flash",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 59,
+        "date": "7/19/2024 15:05",
+        "comment": "crew added new location briefing site specific went normal tree removal storm tree job new information regarding dangers front",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 60,
+        "date": "11/10/2022 11:30",
+        "comment": "2 man crew ground man relatively new certified climber foreman confident ground man perform aerial rescue needed",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 61,
+        "date": "1/10/2023 9:30",
+        "comment": "name transferred service pole transformer pole leaving really long tails potential flip primary conversation employee corrected understood concern name sure maintain positive control",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 62,
+        "date": "6/14/2022 10:37",
+        "comment": "batter bards et close work area without rebar caps pins foreman made aware installed",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 63,
+        "date": "4/6/2021 1:00",
+        "comment": "one crew member wearing bright orange shirt name thought okay substitute traffic vest",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 64,
+        "date": "8/7/2019 14:30",
+        "comment": "bucket harness adjusted properly name ask boom harness adjusted",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 65,
+        "date": "5/13/2021 10:03",
+        "comment": "one operator leg restraints properly placed tight coached employee way required dangers proper made corrections immediately",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 66,
+        "date": "6/24/2024 7:00",
+        "comment": "jib used due damage tagged name discussed tcr contractor expected removed site question training past users take way internal review name standards company",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 67,
+        "date": "3/28/2023 13:30",
+        "comment": "boom truck lacking name pin ensure load line stays sheave contacted nhpl safety rep ensure pin installed prior continued use equipment",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 68,
+        "date": "8/6/2021 9:15",
+        "comment": "lcs provided coaching name members respecting barricade ropes touching trucks one lmc grabbed work gloves truck also placed gloves sleeves back truck ropes apprentice coached making sure look bucket make sure primary minimum approach prior dropping rope access trucks equipment",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 69,
+        "date": "3/10/2020 12:52",
+        "comment": "truck cabinets outside vehicle latched locked prevent opening travel discussed",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 70,
+        "date": "8/17/2021 8:25",
+        "comment": "job briefing listed tasks needed complete assigned task job briefing assign individual tasks crew members",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 71,
+        "date": "5/11/2021 11:29",
+        "comment": "fire extinguisher annual inspection date extinguisher removed vehicle replaced",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 72,
+        "date": "1/30/2024 12:00",
+        "comment": "name using road work signs instead utility work signs spoke lead flagger using proper sign",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 73,
+        "date": "7/17/2024 9:50",
+        "comment": "continue work digital document usage follow name 1st 4 weeks establish document site review safety representative working resolve",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 74,
+        "date": "7/23/2024 12:14",
+        "comment": "city asked county workers across street make repairs placed cap pipe site",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 75,
+        "date": "5/16/2024 13:40",
+        "comment": "lcs charge rigging name 55 pole aware pole weight operator patriot 40 track digger derrick familiar patriot 40s safe name load chart name 55 pole exceed capacity equipment applied boom angle load area distance pole weight est 3062 lbs digger hard time lifting pole angle boom placed first",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 76,
+        "date": "11/2/2020 9:00",
+        "comment": "crew members transformer location rubber gloves available used arrived",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 77,
+        "date": "2/27/2023 14:00",
+        "comment": "fleet tech routinely remove safety glasses face placed head tasks needed reminding removed safety glasses discussed greater detail conclusion observation name reminded little patient regarding use glasses request glasses diopters support reading closer examination smaller part necessary",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 78,
+        "date": "2/9/2023 8:25",
+        "comment": "two working chainsaws available two manual trucks name stated trade throughout day request necessary repairs made ensure additional chainsaws available needed production emergency reasons",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 79,
+        "date": "8/19/2020 15:04",
+        "comment": "lma went untied burnt arm placed phase top pole installing grounds name rushing grounding",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 80,
+        "date": "6/17/2024 11:30",
+        "comment": "name ahead sign set behind truck near work site however right way forest sign placed near entrance dirt road led crew case emergency responders called work site",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 81,
+        "date": "9/21/2022 16:21",
+        "comment": "name area set great flaggers engaged watching hazards took granted parking lot relax",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 82,
+        "date": "4/26/2023 10:58",
+        "comment": "digger bucket truck parked site proper wheel chokes place used properly",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 83,
+        "date": "4/17/2024 10:18",
+        "comment": "u3 name end area passageway floor 1 protruding bolts sticking 1 2 concrete surface area south global breakroom bolt studs found side doorway slip trip fall potentials notified advised plant power point shared findings communicated placed corrective issue tracking sheet",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 84,
+        "date": "7/20/2023 9:33",
+        "comment": "name using jack hammer periodically hearing protection sign extra hearing protection visitors",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 85,
+        "date": "6/5/2023 9:21",
+        "comment": "crew performed pre job briefing shared emergency action plan document aware pre job briefing requirement shared location pre job briefing vero crew foreman took notes relay information management team crew excellent attitudes open coaching",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 86,
+        "date": "5/29/2020 9:30",
+        "comment": "employees change gloves loft re brief employees took class 0 class two gloves sleeves loft time",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 87,
+        "date": "11/8/2019 8:00",
+        "comment": "name using hard cover pole hard cover cover pole adequately name addressed issue asked crew decided use rubber blankets cover portion pole hard coer cover crew took suggestion well",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 88,
+        "date": "2/18/2021 15:06",
+        "comment": "employees didnt ice cleats lcs gave pair one linemen rounded another pair next day none team members pvd",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 89,
+        "date": "6/8/2020 11:30",
+        "comment": "job description indicated bucket work flagging chipping brush however name procedures initials assignment",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 90,
+        "date": "4/9/2024 10:29",
+        "comment": "name energy hazards icons documented utilized job brief discussed crew importance identifying name energy hazards icons assist identifying mitigating hazards aep h name 1 06",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 91,
+        "date": "4/14/2022 9:20",
+        "comment": "annual inspection extinguisher informed driver get new one service center soon",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 92,
+        "date": "9/6/2023 12:57",
+        "comment": "coached crew importance covering open hole plywood writing hole plywood snow fence place",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 93,
+        "date": "12/15/2023 14:51",
+        "comment": "disregarded pjb tha plan donning ppe plan work work plan avoid unsafe act theres reason conduct thas pjbs must also lead example supervisors supervisor providing coverage tends wear designer glasses instead proper z87 safety glasses required",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 94,
+        "date": "10/20/2023 12:00",
+        "comment": "name use grounded aerial devices shall grounded use grounding shall applied system ground conductor station equipment ground structure ground grounded structure article 10 4 3 1 aep transmission 2020 contractor safety handbook",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 95,
+        "date": "2/12/2021 11:00",
+        "comment": "job briefing conducted hurry due extreme cold outage situation talked foreman need quality briefing matter conditions",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 96,
+        "date": "2/21/2024 14:00",
+        "comment": "cones good vehicle using drop zone cones climber trimming tree",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 97,
+        "date": "12/19/2023 10:35",
+        "comment": "encouraged foreman discuss document hazards associated rotating equipment task installing 18 guy anchors str 2",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 98,
+        "date": "9/27/2023 10:23",
+        "comment": "crew used crane remove rings foundations cleaning bolts foundation task listed tha",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 99,
+        "date": "6/20/2024 13:30",
+        "comment": "one employees forks tilted back far enough transformer end forks also turning lowered load stopped job asked jsa performed starting job employees stated done verbal jsa failed talk wet pallets need tilt forks back lower forks turning",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 100,
+        "date": "6/9/2021 14:37",
+        "comment": "chipper tire showing cord driver side gf present audit informed said work getting tire fixed",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 101,
+        "date": "11/18/2022 21:30",
+        "comment": "name make multiple setups able properly dig hole letting young crew member make small navigable mistakes enhance critical thinking future",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 102,
+        "date": "4/30/2024 16:02",
+        "comment": "crew outriggers setup curb potential outrigger slipping curb giving reminded crews setup outriggers firm ground also goes manufacturer guidelines improper setup equipment",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 103,
+        "date": "11/23/2022 14:05",
+        "comment": "wrong hospital listed job briefing hours clinic listed name failed list associated hazards mitigations high energy hazards relation tasks hand",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 104,
+        "date": "6/13/2023 9:30",
+        "comment": "employee working bucket gloves hands using pruning saw coached site gf notified",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 105,
+        "date": "7/15/2021 10:00",
+        "comment": "asked employee stated different job tasks performed documented job briefing",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 106,
+        "date": "2/4/2021 13:10",
+        "comment": "ground hand went truck grabbed pruners bucket operator working near lines gf present corrected action",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 107,
+        "date": "7/21/2020 14:03",
+        "comment": "lineman bucket came changed gloves documented re brief lineman one sleeve strap wore behind head asked add second strap wear appropriately name agreed folded blanket stuck bin",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 108,
+        "date": "4/5/2023 8:25",
+        "comment": "crew member operating dump truck observed wearing seatbelt site truck observed parked pulled nose toward trailer conversation held crew members wearing seatbelts using pull method backing parking spot upon arrival reviewed aep cs together",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 109,
+        "date": "2/1/2023 14:22",
+        "comment": "tha missing task steps hazards mitigations tools used listed talked tha",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 110,
+        "date": "10/8/2022 8:37",
+        "comment": "observed debris right way restoration piled near blocking access porta pot creating tripping hazard",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 111,
+        "date": "7/1/2022 10:17",
+        "comment": "tha include hot work permit completed name beginning task therefore task risks hazards identified planned mitigation involved task must covered tha addressed tailboard job briefing",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 112,
+        "date": "11/10/2022 10:30",
+        "comment": "stressed importance equipment pre flight post flight inspections ensure trucks equipment functioning hazard exists equipment",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 113,
+        "date": "9/4/2020 15:00",
+        "comment": "winch line run sideways dolly frame instead dolly using pull span primary side loading pull winch line boom bucket explained damaging winch line possibly rotation gears bucket",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 114,
+        "date": "12/2/2022 9:16",
+        "comment": "conductor end pull meet 3 1 ratio crew aware submitting documentation engineer approval",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 115,
+        "date": "11/9/2022 22:40",
+        "comment": "name set 3 cones entry property half way house cattle guard wheee homeowner drive thru without getting move cones get thru customer complied cones move drove around 2 pastures get house husband called little upset left cones far back entrance location traffic",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 116,
+        "date": "3/18/2024 9:00",
+        "comment": "overexertions included repetitive movements used multiple employees share workload potential hazards discussed pinch points slip trip fall fall elevation",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 117,
+        "date": "12/5/2022 12:38",
+        "comment": "name used boom remove pole butt old pole hill felt dangerous use pole jack steep slope",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 118,
+        "date": "3/8/2022 10:22",
+        "comment": "employee holding grinder one hand holding metal two hands grinder required times",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 119,
+        "date": "3/17/2022 12:30",
+        "comment": "substation gate left open unguarded arrived brought couple workers closed gate understanding agreement importance keeping closed guarded",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 120,
+        "date": "2/27/2019 9:30",
+        "comment": "employee using impact tool regular socket socket needed approved impact rated socket addressed changed",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 121,
+        "date": "5/10/2022 11:58",
+        "comment": "clams stopped drains employees wore water boots cleared drained twice task",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 122,
+        "date": "6/24/2020 15:00",
+        "comment": "barricade used pieces old white rope name stated company correct rope signs hasnt distributed yet",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 123,
+        "date": "11/1/2021 10:00",
+        "comment": "one hose used cover neutral given direction attachment points left uncovered attempting pass system neutral one hose appeared enough",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 124,
+        "date": "5/13/2020 9:30",
+        "comment": "truck improperly set three phase wheel chock truck never moved boom cradled proper location",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 125,
+        "date": "6/28/2023 12:58",
+        "comment": "name backing pickup move new location use spotter stopped appointed one",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 126,
+        "date": "9/13/2021 9:00",
+        "comment": "supervisors know required working service center however enforcing protocols using",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 127,
+        "date": "1/8/2019 9:30",
+        "comment": "3 manual crews working together unable determine whos small amount trash left street near trucks new climbing line bindings debris newly opened equip addressed crews gf immediately",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 128,
+        "date": "6/15/2020 9:44",
+        "comment": "crew parked road within 10 shoulder road needed place utility signs directions needed place cones along work area concerns discussed corrected",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 129,
+        "date": "2/7/2023 8:00",
+        "comment": "p c technician perfroming verbal communication needs speak little louder team members hear conversation dispatcher",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 130,
+        "date": "10/8/2019 10:31",
+        "comment": "line grounded pipe required time sleeves bin one strap item seeing often discussed need second strap wearing sleeves properly",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 131,
+        "date": "11/13/2023 9:50",
+        "comment": "boom inspection one day away expiring sent home provide proper paperwork",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 132,
+        "date": "6/25/2024 8:01",
+        "comment": "spotter distracted performing duties stopped work discussion spotter got corrected",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 133,
+        "date": "3/23/2022 14:30",
+        "comment": "employee manually moves rolled insulation rubber gasket material pallet jack onto rack located wall pulling pushing material lifting rack rolls weigh 100 pounds corrective actions identified mitigate overexertion hazards task 1 require use 2 people lifting material 2 order materials weight 50 pounds less 3 place material 3 rack position chest level 4 research purchase mechanical assist lifting device get material position transfer storage rack",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 134,
+        "date": "5/22/2024 14:30",
+        "comment": "rc name employee cutting brush chainsaw cutting brush left handed using saw opposite manufacture spec job stopped crew member coached correct way hold chainsaw",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 135,
+        "date": "7/7/2021 15:05",
+        "comment": "name finished making notch crew noticed notch incorrect bad angle crew members stopped feller tell straighten notch point feller shrugged shoulders continued back cut",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 136,
+        "date": "1/17/2024 15:28",
+        "comment": "rebar caps needed hole cover rebar stakes located outside control house improvement made",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 137,
+        "date": "8/25/2022 13:15",
+        "comment": "flagger sitting underneath line phases prepared move asked flagger move explained hazard",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 138,
+        "date": "4/15/2024 12:45",
+        "comment": "employee observed raising leg step brush saw still running name coached employee making sure maintained good body mechanics set chain brake taking two steps putting legs line fire situation",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 139,
+        "date": "5/10/2019 10:30",
+        "comment": "backyard machine pin bucket completion job getting machine prepared move backyard used winch line wrap around connection bucket well safety rep asked use strap keep damaging winch line conversation around practice issues seen past practice",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 140,
+        "date": "2/13/2023 12:57",
+        "comment": "crew potholes front yard property owner row crew looking water electrical sewer septic lines name found open holes left barricaded uncovered unattended discussed securing holes avoid someone potentially stepping one",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 141,
+        "date": "2/2/2021 11:00",
+        "comment": "bag used protect live line tools lying ground walked advised employee properly store bag used protect tool protects picked folded lain back truck ground",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 142,
+        "date": "3/4/2024 11:21",
+        "comment": "name traffic area customer site way mitigate risks associated condition potential fixed object intrusion damage vehicle due customer traffic",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 143,
+        "date": "4/19/2022 8:35",
+        "comment": "employee observed cutting shoulders creates line fire hazard kickback event occur",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 144,
+        "date": "5/30/2023 8:57",
+        "comment": "worker working scaffold beam acting top rail scaffold employee climbing beam reaching exposting fall hazard",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 145,
+        "date": "12/17/2019 7:30",
+        "comment": "discussed extending buffer truck barricade due icy road conditions possibility failure control public difference stopping distance",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 146,
+        "date": "12/7/2021 23:09",
+        "comment": "coached employees ergonomics entering scaffold tight spaces hot pipes close proximity",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 147,
+        "date": "8/9/2023 8:45",
+        "comment": "one employee observed gloves pulling cut brush away pole location given pair gloves foreman",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 148,
+        "date": "6/8/2020 14:31",
+        "comment": "side road grown making hard see access path additional hazards associated job site coupled steep slick bank along creek crossing access job site",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 149,
+        "date": "6/27/2024 10:30",
+        "comment": "plan listed regarding taking frequent breaks due temperatures expected mid day",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 150,
+        "date": "7/23/2024 14:15",
+        "comment": "name coached one name members fr shirt multiple holes thin thread bear needed replaced provide necessary protection require name agreed said talk name member",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 151,
+        "date": "5/13/2021 9:00",
+        "comment": "one employee assembling material bare handed asked wear leather gloves complied",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 152,
+        "date": "6/16/2024 15:06",
+        "comment": "talked importance 360 walkaround bad things happen",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 153,
+        "date": "12/19/2023 12:05",
+        "comment": "env coords call seuz nalco help support dissolved copper longer issue find second chemical support copper suspended solids particles causing reporting samples high",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 154,
+        "date": "8/7/2023 10:35",
+        "comment": "employee observed wearing name iii hi vis per contractors policy time observation addressed crew foreman gf",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 155,
+        "date": "10/14/2019 9:00",
+        "comment": "emplolyee witnessed without side shields supervosor informed couldd coach employee",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 156,
+        "date": "3/4/2024 11:43",
+        "comment": "employees inside shipping container installing storage racks need drill couple bolt holes side container shared employees importance wear hearing protection even though task short lived",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 157,
+        "date": "4/6/2022 12:14",
+        "comment": "took several attempts qo get attention working aloft area busy construction next site traffic two buckets running",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 158,
+        "date": "10/13/2021 5:20",
+        "comment": "name working unit 1 4th elevation noticed piece grating sticking causing tripping hazard name painted hazard yellow paint flagged area welder come fix issue",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 159,
+        "date": "12/15/2022 7:56",
+        "comment": "made superintendent aware providing signage gate open excavation required ppe make visitors aware",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 160,
+        "date": "11/1/2021 11:45",
+        "comment": "job briefing missing circuit put job briefing also asked add address moved",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 161,
+        "date": "10/14/2019 14:00",
+        "comment": "talked crew tear rope barricade crew member working told change rope white red barricade rope visible standard safety equipment",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 162,
+        "date": "1/22/2020 11:19",
+        "comment": "chipping limb became jammed name disengaged chipper working remove limb name member using handsaw remove limb get better angle trimmer got knees chipper tailboard limb removed trimmer stepped away chipper coached foreman action told risk involved practice reported gf trimmer reprimanded given three days without pay",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 163,
+        "date": "4/11/2022 9:30",
+        "comment": "crew place drop zone cones name blocked still foot traffic walking",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 164,
+        "date": "8/24/2023 12:33",
+        "comment": "name noted limbs near primary hazard even though crew already trimmed trees crews chipping time explained crews site specific tasks performing name understood",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 165,
+        "date": "10/19/2022 12:20",
+        "comment": "name bucket used effective rigging block pieces dead ash tree order protect shed property owners equipment name made cuts pushed portion upper boom near bucket blocks force free name stated couldnt get bucket safe position push blocks free hand coached using chainsaw instead boom remove blocks",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 166,
+        "date": "5/28/2024 8:10",
+        "comment": "told crew rush storm work one task time poles lines ground everywhere",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 167,
+        "date": "3/3/2022 10:28",
+        "comment": "gaffs stored working line covered gaffs moved another side box away working line",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 168,
+        "date": "4/20/2023 9:30",
+        "comment": "pole moved tag line foreman install picture also shows issue previous ofi",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 169,
+        "date": "1/11/2023 11:00",
+        "comment": "observer assigned watch foreman aloft lift engaged upon arrival jobsite noticed observer using cell phone looking screen",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 170,
+        "date": "10/8/2022 10:30",
+        "comment": "lineman wearing sleeves right strap front back come primary explained foreman aep policy wear one strap front one back",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 171,
+        "date": "12/8/2022 17:25",
+        "comment": "eps vendor employee oversized load escort offered give advice getting air rear axles trailer order raise height ground help tow truck winch employee witnessed putting front deck trailer overtop drive wheels tractor tractor trailer motion power tow truck winches",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 172,
+        "date": "3/16/2021 11:00",
+        "comment": "name failed check stop procedure use mad electric voltage also weekly safety topic discussed",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 173,
+        "date": "6/23/2022 14:30",
+        "comment": "use ladder required order fully secure transformer flatbed trailer used remove equipment name climbing ladder proper fall protection ppe put crew tied reaching top transformer though ladder used order access top transformer tied resulted injury spoke name brooksman incident name assured take care situation next time appropriate aep protocol followed using ladder",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 174,
+        "date": "11/13/2019 8:30",
+        "comment": "name removing small dead ash split two sections another small live tree middle come fine made cut live tree get way wa actually holding dead ash upright nobody hurt able let tree fall safely near miss report going filled",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 175,
+        "date": "9/3/2024 17:20",
+        "comment": "1 worker lanyard laying bottom barricade bar inhibit personal fall arrest system working properly spoke name agreed immediately corrected concrete truck finished pouring",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 176,
+        "date": "8/3/2022 14:15",
+        "comment": "trimmer sharping saw without gloves trimmer stop put gloves informed gf",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 177,
+        "date": "2/20/2023 15:26",
+        "comment": "concrete driver exited truck without wearing hard hat spoke wearing hard hat outside truck driver put right away",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 178,
+        "date": "3/16/2020 8:12",
+        "comment": "contract flaggers pole replacement flagger set close trucks hill sight work zone safely stop control coming traffic",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 179,
+        "date": "2/23/2023 12:02",
+        "comment": "team completed pre job brief area improvement ensure driver involved job brief therefore know hazards associated site aware steel steel load hazards danger zones",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 180,
+        "date": "6/18/2020 10:33",
+        "comment": "need make better system barricade trucks driving first thing see barricades ongoing thing linetec",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 181,
+        "date": "12/7/2023 14:30",
+        "comment": "employee wearing gloves glasses told employee put gloves glasses explained reason wear",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 182,
+        "date": "9/6/2023 8:00",
+        "comment": "two trimmers aloft tree within close proximity 4 5 one another one trimmer roughly 10 15 higher making cuts direct path debris",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 183,
+        "date": "8/3/2023 11:00",
+        "comment": "crew put motorists risk truck partially road chipping signs cones whatsoever tis stopped immediately safer plan chip brush made",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 184,
+        "date": "5/1/2024 10:31",
+        "comment": "correct calorie unknown 240v switchgear se wore face shield double layer fr name 2 gloves opening cabinet trouble shooting",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 185,
+        "date": "7/7/2023 12:51",
+        "comment": "rd started leave backed 15ft without backer stopped crew remind policy",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 186,
+        "date": "6/8/2022 12:25",
+        "comment": "lineman booming stow 125 bucket missed cradle little bit landed step minor crack step mechanic fix",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 187,
+        "date": "12/2/2019 10:30",
+        "comment": "vehicle small equiped securly carry equipment needed tools organized back car",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 188,
+        "date": "2/22/2023 7:26",
+        "comment": "employee got done brake forgot swap prescription glasses safety glasses",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 189,
+        "date": "12/15/2021 18:09",
+        "comment": "name foreman clear pair good safety glasses scratched really bad forester loaned pair get job done safely",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 190,
+        "date": "7/10/2019 10:30",
+        "comment": "name failed discuss heat stress high temperatures heat index 100s gf coached made mandatory breaks crews name also made sure everyone rotating work keep guys fresh",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 191,
+        "date": "4/4/2022 10:30",
+        "comment": "work already commenced cutting bottom pole chain saw prior conducting job briefing reminded foreman employee using chainsaw job briefing meant identify hazards confirm mitigation protection necessary wok job briefing chainsaw chaps hearing protection covered confirmed place cutting pole agreed committed start work job briefing first",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 192,
+        "date": "2/10/2021 13:04",
+        "comment": "name done residential yard drop zone cones 360 around drip edge tree trimmed",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 193,
+        "date": "10/5/2022 15:10",
+        "comment": "name stated drop zone cones flags name using orange cones instead gets required equipment",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 194,
+        "date": "10/21/2019 11:03",
+        "comment": "one employee wearing safety glasses communicated motioned thumbs went get pair",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 195,
+        "date": "12/13/2021 14:57",
+        "comment": "qo wasnt fully engaged qo telling climbers cut limbs bouncing service drops hitting sheds",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 196,
+        "date": "10/6/2021 11:30",
+        "comment": "wrong size ladder use asked name find correct ladder returning assigned task",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 197,
+        "date": "1/3/2023 8:40",
+        "comment": "name talk customers opening xmfr stopped job asked said forgot luckly one customer also went pole distance road make sure stay state road guidelines",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 198,
+        "date": "12/2/2021 6:11",
+        "comment": "employee adjust stance fixed platform comfortably work employee adjust stance fixed platform comfortably work",
+        "classification": "High Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 199,
+        "date": "10/27/2023 14:28",
+        "comment": "maintenance mechanic working backhoe transmission lines without ppe corrected spot",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 200,
+        "date": "3/8/2023 7:12",
+        "comment": "crew replacing 3 phase pole parking lot required cutting concrete partner saw beginning cuts lcs grabbed hearing protection handed crew reminded important use correctly preserve hearing",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 201,
+        "date": "5/14/2024 14:20",
+        "comment": "voltage worked documented job brief discussed corrected h name general 1 06",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    },
+    {
+        "index": 202,
+        "date": "1/15/2022 21:10",
+        "comment": "name crew storekeepers questioning attitude ensured stopped loading new xfmr texted called inspector assistance ensure picked correct voltage xfmr name crew continued questioning attitude checked voltage xfmr proceeded check voltage meter found missing hot leg damaged oh cable",
+        "classification": "Low Energy",
+        "plots": {
+            "matplotlibPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/matplotlib_plot.png",
+            "embeddingsPlot": "/Users/jaydenvasquez/Downloads/VSCode/hackathon/Backend/embeddings_plot.png"
+        }
+    }
+]
